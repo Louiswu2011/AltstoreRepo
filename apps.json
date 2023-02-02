@@ -1,0 +1,24 @@
+{
+    "apps": [
+        {
+            "beta": false,
+            "bundleIdentifier": "org.nltv.chafenqi",
+            "developerName": "louiswu2011",
+            "downloadURL": "https://github.com/Louiswu2011/chafenqi/releases/download/1.0.0/chafenqi.ipa",
+            "iconURL": "https://raw.githubusercontent.com/qnblackcat/AltStore/main/ScreenShot/free-reddit-logo-icon-2436-thumb.png",
+            "localizedDescription": "用SwiftUI实现的轻量级国服中二查分器。\n支持查询玩家基本信息，计算Rating/B30/R10，搜索曲目和App内谱面预览等功能。\n- 需要iOS15.0及以上系统。\n- 源代码: \nhttps://github.com/Louiswu2011/chafenqi",
+            "name": "查分器NEW",
+            "screenshotURLs": [
+                "https://raw.githubusercontent.com/Louiswu2011/chafenqi/main/Screenshot/homeScreen.png",
+                "https://raw.githubusercontent.com/Louiswu2011/chafenqi/main/Screenshot/songListScreen.png",
+                "https://raw.githubusercontent.com/Louiswu2011/chafenqi/main/Screenshot/detailScreen.png"
+            ],
+            "size": 4252271,
+            "subtitle": "国服中二节奏查分器App",
+            "tintColor": "fcea4b",
+            "version": "1.0.0",
+            "versionDate": "2023-02-03T12:00:00-01:00",
+            "versionDescription": "https://raw.githubusercontent.com/Louiswu2011/chafenqi/main/readme.md"
+        }
+    ]
+}
